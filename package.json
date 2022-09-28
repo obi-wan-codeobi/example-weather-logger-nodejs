@@ -18,8 +18,7 @@
     "redis": "^4.1.0",
     "tableify": "^1.1.1",
     "ts-node": "^10.4.0",
-    "typescript": "^4.5.2",
-    "npm": "^8.19.1"
+    "typescript": "^4.5.2"
   },
   "scripts": {
     "start": "npm run setup && ts-node bin/server.ts",
